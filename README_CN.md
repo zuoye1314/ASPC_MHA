@@ -50,7 +50,7 @@ ASPC_MHA/
 
 ## 预训练权重
 
-百度网盘下载链接：[待填写链接]
+百度网盘下载链接：[点击下载](https://pan.baidu.com/s/1EpNZdxIxTMTUNq8P0SawGA?pwd=eha7) 提取码：`eha7`
 
 | 文件 | 说明 |
 |---|---|

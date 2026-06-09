@@ -50,7 +50,7 @@ ASPC_MHA/
 
 ## Pretrained Weights
 
-Download from Baidu Netdisk: [link placeholder - user will fill in]
+Download from Baidu Netdisk: [link](https://pan.baidu.com/s/1EpNZdxIxTMTUNq8P0SawGA?pwd=eha7) Password: `eha7`
 
 | File | Description |
 |---|---|
